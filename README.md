@@ -2,7 +2,7 @@
 ### Oii! Eu sou o Guilherme 👾
 
 
-- 🌱 Estou estudando Kotlin
+- 🌱 Estou estudando Kotlin, HTML5, CSS3, Java, JavaScript, Angular e Spring
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
