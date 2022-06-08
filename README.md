@@ -4,6 +4,7 @@
 
 - 🌱 Estou estudando Kotlin, HTML5, CSS3, Java, JavaScript, Angular e Spring
 - 😄 Pronouns: Ele/Dele
+- 📫 Meu email é: guilhermebconte@hotmail.com
 
 <div align="center">
   <a href="https://github.com/Guilherme-Conte">
