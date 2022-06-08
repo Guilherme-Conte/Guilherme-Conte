@@ -1,5 +1,5 @@
 
-### Oii! Eu sou o Guilherme 👋
+### Oii! Eu sou o Guilherme 👾
 
 
 - 🌱 Estou estudando Kotlin
